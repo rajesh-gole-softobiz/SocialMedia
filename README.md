@@ -1,4 +1,4 @@
-# <h1 align="center"><a href="https://softbooks.herokuapp.com/auth">Softbook</a></h1>
+# <h1 align="center"><a href="https://softbooks.herokuapp.com/">Softbook</a></h1>
 
 <p align="center">
   <img src="https://github.com/rajesh-gole-softobiz/resources/blob/main/img/Screenshot%20(17).png" width="920" title="hover text">
